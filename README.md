@@ -1,5 +1,6 @@
+
 - 👋 Hi, I’m Nigitha
-- 👀 I’m interested in Software development
+- 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Reactjs
 - 📫 How to reach me nigithanaren@gmail.com
 
