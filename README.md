@@ -23,5 +23,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-## ⚡ GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=i-niki22)
+
